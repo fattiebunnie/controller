@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [RPPico_Shield.PrjPcb]
+   Generated File[//unimelbcloud-my.sharepoint.com/personal/jeenghaol_student_unimelb_edu_au/Documents/project/controller/shield/rppico/RPPico_Shield/Project Outputs for Free Documents/BOM/Bill of Materials-RPPico_Shield.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:18:58 On 15/07/2023

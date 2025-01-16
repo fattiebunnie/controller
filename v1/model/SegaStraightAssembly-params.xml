@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamWithValueList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>20080502</version>
+  <parameterTypes>
+    <ParamType>
+      <typeName>Inventor</typeName>
+      <typeCode>0</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>String</typeName>
+      <typeCode>1</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>Boolean</typeName>
+      <typeCode>2</typeCode>
+    </ParamType>
+  </parameterTypes>
+  <parameters>
+    <ParamWithValue>
+      <name>BoxLength</name>
+      <typeCode>mm</typeCode>
+      <value>300.0 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>BoxHeight</name>
+      <typeCode>mm</typeCode>
+      <value>80.0 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>BoxWidth</name>
+      <typeCode>mm</typeCode>
+      <value>200.0 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>SheetThickness</name>
+      <typeCode>mm</typeCode>
+      <value>6.0 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>CornerOffset</name>
+      <typeCode>mm</typeCode>
+      <value>5 mm</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+  </parameters>
+</ParamWithValueList>

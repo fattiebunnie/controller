@@ -1,0 +1,35 @@
+Added Component: Designator=B1(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tmp100.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1645782280887&ref_url=https%253A%252F%252Fwww.mouser.in%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMP100NA/3KG4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TMP100NA/3KG4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMP100NA-3KG4?qs=RnzODY3cU8vFEcRbQgecuQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X3H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X3H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADD0 Pin=B1-5
+Added Pin To Net: NetName=ADD0 Pin=P2-2
+Added Net: Name=ADD0
+Added Pin To Net: NetName=ADD1 Pin=B1-3
+Added Pin To Net: NetName=ADD1 Pin=P1-3
+Added Net: Name=ADD1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=SCL Pin=B1-1
+Added Pin To Net: NetName=SCL Pin=P1-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=B1-6
+Added Pin To Net: NetName=SDA Pin=P2-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=B1-4
+Added Pin To Net: NetName=VCC Pin=P2-3
+Added Net: Name=VCC
+Added Class: Name=board1
+Added Room: Name=board1

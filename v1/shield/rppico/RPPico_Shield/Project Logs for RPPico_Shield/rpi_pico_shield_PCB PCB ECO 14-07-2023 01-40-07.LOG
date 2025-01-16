@@ -1,0 +1,8 @@
+Added Component: Designator=SC1(Screw_Hole)
+Added Component: Designator=SC2(Screw_Hole)
+Added Component: Designator=SC3(Screw_Hole)
+Added Component: Designator=SC4(Screw_Hole)
+Added Member To Class: ClassName=shield Member=Component SC1 Screw_Hole
+Added Member To Class: ClassName=shield Member=Component SC2 Screw_Hole
+Added Member To Class: ClassName=shield Member=Component SC3 Screw_Hole
+Added Member To Class: ClassName=shield Member=Component SC4 Screw_Hole

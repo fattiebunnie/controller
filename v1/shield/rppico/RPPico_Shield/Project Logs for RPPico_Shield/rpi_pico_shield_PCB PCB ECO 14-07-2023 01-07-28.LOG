@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=shield Member=Component C2 100nF
+Added Member To Class: ClassName=shield Member=Component C4 100nF
+Added Member To Class: ClassName=shield Member=Component C6 100nF
+Added Member To Class: ClassName=shield Member=Component C8 100nF
+Added Member To Class: ClassName=shield Member=Component C10 100nF
+Added Member To Class: ClassName=shield Member=Component C12 100nF
+Added Member To Class: ClassName=shield Member=Component C14 100nF
+Added Room: Name=rpi_pico
+Added Room: Name=shield
