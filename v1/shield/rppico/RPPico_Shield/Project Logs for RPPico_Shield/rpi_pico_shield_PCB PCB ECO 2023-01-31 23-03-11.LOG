@@ -1,0 +1,139 @@
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Added Component: Designator=J11(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=J12(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=J13(FP-B2B-XH-A_LF_SN-MFG)
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Added Component: Designator=J21(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=J22(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=J23(FP-B2B-XH-A_LF_SN-MFG)
+Added Component: Designator=J24(FP-B2B-XH-A_LF_SN-MFG)
+Add Component: Footprint Not Found FP-B4B-XH-A_LF_SN-MFG
+Added Component: Designator=J26(FP-B2B-XH-A_LF_SN-MFG)
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Add Component: Footprint Not Found FAIR-SOT23-3_V
+Added Component: Designator=U1(PiPico_Holes)
+Added Pin To Net: NetName=3V3_EN Pin=U1-37
+Added Net: Name=3V3_EN
+Added Pin To Net: NetName=ADC_REF Pin=U1-35
+Added Net: Name=ADC_REF
+Added Pin To Net: NetName=DVCC Pin=U1-36
+Added Net: Name=DVCC
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=GND Pin=U1-42
+Added Net: Name=GND
+Added Net: Name=LED01
+Added Net: Name=LED02
+Added Net: Name=LED03
+Added Net: Name=LED04
+Added Net: Name=LED05
+Added Net: Name=LED06
+Added Net: Name=LED07
+Added Net: Name=LED08
+Added Net: Name=LED09
+Added Net: Name=LED10
+Added Net: Name=LED11
+Added Net: Name=LED12
+Added Net: Name=LED13
+Added Net: Name=LED14
+Added Net: Name=LED15
+Added Pin To Net: NetName=LEDS_1 Pin=U1-29
+Added Net: Name=LEDS_1
+Added Pin To Net: NetName=LEDS_2 Pin=U1-31
+Added Net: Name=LEDS_2
+Added Pin To Net: NetName=LEDS_3 Pin=U1-32
+Added Net: Name=LEDS_3
+Added Pin To Net: NetName=LEDS_4 Pin=U1-34
+Added Net: Name=LEDS_4
+Added Pin To Net: NetName=RUN Pin=U1-30
+Added Net: Name=RUN
+Added Pin To Net: NetName=S00 Pin=U1-1
+Added Net: Name=S00
+Added Pin To Net: NetName=S01 Pin=U1-2
+Added Net: Name=S01
+Added Pin To Net: NetName=S02 Pin=U1-4
+Added Net: Name=S02
+Added Pin To Net: NetName=S03 Pin=U1-5
+Added Net: Name=S03
+Added Pin To Net: NetName=S04 Pin=U1-6
+Added Net: Name=S04
+Added Pin To Net: NetName=S05 Pin=U1-7
+Added Net: Name=S05
+Added Pin To Net: NetName=S06 Pin=U1-9
+Added Net: Name=S06
+Added Pin To Net: NetName=S07 Pin=U1-10
+Added Net: Name=S07
+Added Pin To Net: NetName=S08 Pin=U1-11
+Added Net: Name=S08
+Added Pin To Net: NetName=S09 Pin=U1-12
+Added Net: Name=S09
+Added Pin To Net: NetName=S10 Pin=U1-14
+Added Net: Name=S10
+Added Pin To Net: NetName=S11 Pin=U1-15
+Added Net: Name=S11
+Added Pin To Net: NetName=S12 Pin=U1-16
+Added Net: Name=S12
+Added Pin To Net: NetName=S13 Pin=U1-17
+Added Net: Name=S13
+Added Pin To Net: NetName=S14 Pin=U1-19
+Added Net: Name=S14
+Added Pin To Net: NetName=S15 Pin=U1-20
+Added Net: Name=S15
+Added Pin To Net: NetName=S16 Pin=U1-21
+Added Net: Name=S16
+Added Pin To Net: NetName=S17 Pin=U1-22
+Added Net: Name=S17
+Added Pin To Net: NetName=S18 Pin=U1-24
+Added Net: Name=S18
+Added Pin To Net: NetName=S19 Pin=U1-25
+Added Net: Name=S19
+Added Pin To Net: NetName=S20 Pin=U1-26
+Added Net: Name=S20
+Added Pin To Net: NetName=S21 Pin=U1-27
+Added Net: Name=S21
+Added Pin To Net: NetName=SWCLK Pin=U1-41
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U1-43
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VCC Pin=U1-40
+Added Net: Name=VCC
+Added Pin To Net: NetName=VSYS Pin=U1-39
+Added Net: Name=VSYS
+Added Class: Name=rpi_pico
+Added Class: Name=shield
+Added Room: Name=rpi_pico
+Added Room: Name=shield
